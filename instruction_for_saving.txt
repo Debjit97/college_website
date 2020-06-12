@@ -1,0 +1,4 @@
+all files should be stored at the location         "C:\xampp\htdocs\college_website_new"
+
+
+database name should be       "college_website"
